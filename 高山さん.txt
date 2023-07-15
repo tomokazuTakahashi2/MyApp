@@ -1,0 +1,29 @@
+* 高山彩愛（たかやま さえ）さんビデオメンタリング
+
+
+## 良かったこと
+gitまで終わることができた
+土日できなかった分を他のところでできた
+外で勉強するようにして集中できるようになった
+
+## 課題点
+xcodeが勝手に落ちる
+
+## 改善点
+xcode14.3.1を使ってみると良いかも
+
+アーキテクチャ
+* MVC ・・・Model - View - Controller・・・storyBoad
+* MVVM・・・Model - View - ViewModel・・・storyBoad,xib
+* VIPER（クリーンアーキテクチャ）・・・View - Interactor - Presenter - Entity - Router
+* TCA・・・the Composable Architecture・・・SwiftUI
+
+Git
+* コミット・・・１個１個のセーブ
+* プッシュ・・・リモートリポジトリに反映すること
+* プル・・・同期する
+* コンフリクト・・・競合
+
+
+- 次回ビデオメンタリング日： 2023/06/27 21:00~
+- ハドルで
